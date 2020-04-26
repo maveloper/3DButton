@@ -2,5 +2,10 @@
   "name": "button3d",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/devalexandre/3DButton.git",
+  "author": "Alexandre <alexandre@indev.net.br>",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
